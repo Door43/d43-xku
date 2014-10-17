@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[xku:home|Door43 (xku)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-xku|d43-xku repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-xku/archive/master.zip|d43-xku.zip]]
+
+**Recent Changes**
+{{changes>ns = xku}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/xku|Ethnologue data]]
+
